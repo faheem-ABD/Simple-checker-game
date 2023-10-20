@@ -1,2 +1,2 @@
-# Simple-checker-game
-Simple checker game in python which runs on the terminal and made using OOPS concepts
+# SPMProject
+Repository for the project in Software Project Management course 2023
